@@ -1,3 +1,3 @@
 # TRUCKCOMPANY
 
-![Certificate_TRK](https://user-images.githubusercontent.com/81981737/154343035-9f915748-a4cd-4b7e-a2e3-3c0187b8602d.jpg)
+![truckcompany](https://user-images.githubusercontent.com/121312707/235411527-9232268c-4905-4f06-a452-cc24221f5c04.png)
